@@ -26,6 +26,7 @@
   <li>REST APIs via Express + MongoDB for game room logic.</li>
   <li>Frontend on Vercel, backend on Render.</li>
   <li>🔗 <a href="https://github.com/faizan-oss/RPS-Royals" target="_blank">View Project</a></li>
+  <li>🔗 <a href="https://rps-royals.vercel.app/" target="_blank">Live Site</a></li>
 </ul>
 
 <h3>🔹 MIT TechCart</h3>
@@ -33,6 +34,7 @@
 <ul>
   <li>Realtime product listings via REST APIs.</li>
   <li>Clean, dynamic UI designed for simplicity and trust.</li>
+  <li>🔗 <a href="https://github.com/jasminekeshari/2409" target="_blank">View Project</a></li>
   <li>🔗 <a href="https://mit-techcart.vercel.app/" target="_blank">Live Site</a></li>
 </ul>
 
@@ -41,6 +43,8 @@
 <ul>
   <li>Features real-time news fetching via external APIs, user authentication with local storage.</li>
   <li>Includes pagination, mobile-friendly nav, and form validation.</li>
+  <li>🔗 <a href="https://github.com/faizan-oss/wbc">View Project</a></li>
+  <li>🔗 <a href="https://lucent-haupia-5dc157.netlify.app/" target="_blank">Live Site</a></li>
 </ul>
 
 <h2>🎯 Currently Looking For</h2>
