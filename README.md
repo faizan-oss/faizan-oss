@@ -57,7 +57,7 @@
 
 <h2>🌐 Let's Connect!</h2>
 <ul>
-  <li>🔗 <strong>Portfolio:</strong> <em>(Coming Soon)</em></li>
+  <li>🔗 <strong>Portfolio:</strong> <a href="https://beamish-zabaione-ae68a5.netlify.app/">View Project</a></li>
   <li>💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/faizan-rahman-khan-889661244" target="_blank">linkedin.com/in/faizan-rahman-khan-889661244</a></li>
   <li>💻 <strong>GitHub:</strong> <a href="https://github.com/faizan-oss" target="_blank">github.com/faizan-oss</a></li>
   <li>📧 <strong>Email:</strong> <a href="mailto:faizanrahmankhan18@gmail.com">faizanrahmankhan18@gmail.com</a></li>
