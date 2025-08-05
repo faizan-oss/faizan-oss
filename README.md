@@ -26,7 +26,7 @@
   <li>Built using Socket.IO for real-time sync, with dynamic UI updates and game state management.</li>
   <li>REST APIs via Express + MongoDB for game room logic.</li>
   <li>Frontend on Vercel, backend on Render.</li>
-  <li>🔗 <a href="https://github.com/faizan-oss/RPS-Royals" target="_blank">View Project</a></li>
+  <li>🔗 <a href="https://raw.githubusercontent.com/faizan-oss/portfolio/main/faizan-portfolio/public/profile/RPS.png" target="_blank">View Project</a></li>
   <li>🔗 <a href="https://rps-royals.vercel.app/" target="_blank">Live Site</a></li>
 </ul>
 <p><strong>#React #NodeJS #Express #MongoDB #SocketIO #Fullstack #Vercel #Render</strong></p>
@@ -43,7 +43,7 @@
 <p><strong>#ReactJS #MongoDB #RESTAPI #Fullstack #Marketplace #TailwindCSS</strong></p>
 
 <h3>🔹 BBC-Style News Website</h3>
-<img src="http://localhost:5173/profile/WBC.png" alt="BBC News Clone Screenshot" width="100%" />
+<img src="https://raw.githubusercontent.com/faizan-oss/portfolio/main/faizan-portfolio/public/profile/WBC.png" width="100%" />
 <p>Responsive multi-page news portal inspired by BBC layout.</p>
 <ul>
   <li>Features real-time news fetching via external APIs, user authentication with local storage.</li>
