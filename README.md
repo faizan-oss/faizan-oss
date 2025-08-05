@@ -32,7 +32,7 @@
 <p><strong>#React #NodeJS #Express #MongoDB #SocketIO #Fullstack #Vercel #Render</strong></p>
 
 <h3>🔹 MIT TechCart</h3>
-<img src="http://localhost:5173/profile/MIT.png" alt="MIT TechCart Screenshot" width="100%" />
+<img src="https://raw.githubusercontent.com/faizan-oss/portfolio/main/faizan-portfolio/public/profile/MIT.png" width="100%" />
 <p>A community-driven marketplace for students to exchange essential second-hand items.</p>
 <ul>
   <li>Realtime product listings via REST APIs.</li>
