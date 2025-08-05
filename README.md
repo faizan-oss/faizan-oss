@@ -20,13 +20,13 @@
 <h2>🛠 Projects</h2>
 
 <h3>🔹 RPS Royals</h3>
-<img src="http://localhost:5173/profile/RPS.png" alt="RPS Royals Screenshot" width="100%" />
+<img src="https://raw.githubusercontent.com/faizan-oss/portfolio/main/faizan-portfolio/public/profile/RPS.png" alt="RPS Royals Screenshot" width="100%" />
 <p>A real-time multiplayer Rock-Paper-Scissors game with live chat and scoring system.</p>
 <ul>
   <li>Built using Socket.IO for real-time sync, with dynamic UI updates and game state management.</li>
   <li>REST APIs via Express + MongoDB for game room logic.</li>
   <li>Frontend on Vercel, backend on Render.</li>
-  <li>🔗 <a href="https://raw.githubusercontent.com/faizan-oss/portfolio/main/faizan-portfolio/public/profile/RPS.png" target="_blank">View Project</a></li>
+  <li>🔗 <a href="https://github.com/faizan-oss/RPS-Royals" target="_blank">View Project</a></li>
   <li>🔗 <a href="https://rps-royals.vercel.app/" target="_blank">Live Site</a></li>
 </ul>
 <p><strong>#React #NodeJS #Express #MongoDB #SocketIO #Fullstack #Vercel #Render</strong></p>
