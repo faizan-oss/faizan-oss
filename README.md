@@ -20,6 +20,7 @@
 <h2>🛠 Projects</h2>
 
 <h3>🔹 RPS Royals</h3>
+<img src="http://localhost:5173/profile/RPS.png" alt="RPS Royals Screenshot" width="100%" />
 <p>A real-time multiplayer Rock-Paper-Scissors game with live chat and scoring system.</p>
 <ul>
   <li>Built using Socket.IO for real-time sync, with dynamic UI updates and game state management.</li>
@@ -28,8 +29,10 @@
   <li>🔗 <a href="https://github.com/faizan-oss/RPS-Royals" target="_blank">View Project</a></li>
   <li>🔗 <a href="https://rps-royals.vercel.app/" target="_blank">Live Site</a></li>
 </ul>
+<p><strong>#React #NodeJS #Express #MongoDB #SocketIO #Fullstack #Vercel #Render</strong></p>
 
 <h3>🔹 MIT TechCart</h3>
+<img src="http://localhost:5173/profile/MIT.png" alt="MIT TechCart Screenshot" width="100%" />
 <p>A community-driven marketplace for students to exchange essential second-hand items.</p>
 <ul>
   <li>Realtime product listings via REST APIs.</li>
@@ -37,8 +40,10 @@
   <li>🔗 <a href="https://github.com/jasminekeshari/2409" target="_blank">View Project</a></li>
   <li>🔗 <a href="https://mit-techcart.vercel.app/" target="_blank">Live Site</a></li>
 </ul>
+<p><strong>#ReactJS #MongoDB #RESTAPI #Fullstack #Marketplace #TailwindCSS</strong></p>
 
 <h3>🔹 BBC-Style News Website</h3>
+<img src="http://localhost:5173/profile/WBC.png" alt="BBC News Clone Screenshot" width="100%" />
 <p>Responsive multi-page news portal inspired by BBC layout.</p>
 <ul>
   <li>Features real-time news fetching via external APIs, user authentication with local storage.</li>
@@ -46,6 +51,7 @@
   <li>🔗 <a href="https://github.com/faizan-oss/wbc">View Project</a></li>
   <li>🔗 <a href="https://lucent-haupia-5dc157.netlify.app/" target="_blank">Live Site</a></li>
 </ul>
+<p><strong>#HTML #CSS #JavaScript #APIIntegration #ResponsiveDesign </strong></p>
 
 <h2>🎯 Currently Looking For</h2>
 <p>An opportunity as a Full Stack Developer where I can grow, learn, and contribute to impactful, meaningful software projects.</p>
