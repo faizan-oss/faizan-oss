@@ -31,16 +31,17 @@
 </ul>
 <p><strong>#React #NodeJS #Express #MongoDB #SocketIO #Fullstack #Vercel #Render</strong></p>
 
-<h3>🔹 MIT TechCart</h3>
-<img src="https://raw.githubusercontent.com/faizan-oss/portfolio/main/faizan-portfolio/public/profile/MIT.png" width="100%" />
-<p>A community-driven marketplace for students to exchange essential second-hand items.</p>
+<h3>🔹 OG House - Food Ordering Platform</h3>
+<img src="<img width="800" height="383" alt="image" src="https://github.com/user-attachments/assets/f14d5552-5a9e-4840-a783-ceaa4068498a" />
+" width="100%" />
+<p>A complete food ordering system for cloud kitchens with admin dashboard and order management.</p>
 <ul>
-  <li>Realtime product listings via REST APIs.</li>
-  <li>Clean, dynamic UI designed for simplicity and trust.</li>
-  <li>🔗 <a href="https://github.com/jasminekeshari/2409" target="_blank">View Project</a></li>
-  <li>🔗 <a href="https://mit-techcart.vercel.app/" target="_blank">Live Site</a></li>
+  <li>Built responsive frontend using React.js and Tailwind CSS with shadcn/ui components.</li>
+  <li>Integrated real-time order tracking, automated email notifications, and image management with Cloudinary.</li>
+  <li>🔗 <a href="https://github.com/yourusername/og-house" target="_blank">View Project</a></li>
+  <li>🔗 <a href="https://your-deployed-app.vercel.app/" target="_blank">Live Site</a></li>
 </ul>
-<p><strong>#ReactJS #MongoDB #RESTAPI #Fullstack #Marketplace #TailwindCSS</strong></p>
+<p><strong>#ReactJS #NodeJS #MongoDB #Cloudinary #TailwindCSS #Fullstack #FoodTech</strong></p>
 
 <h3>🔹 BBC-Style News Website</h3>
 <img src="https://raw.githubusercontent.com/faizan-oss/portfolio/main/faizan-portfolio/public/profile/WBC.png" width="100%" />
