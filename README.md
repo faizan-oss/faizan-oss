@@ -19,6 +19,17 @@
 
 <h2>🛠 Projects</h2>
 
+<h3>🔹 OG House - Food Ordering Platform</h3>
+<img src="https://raw.githubusercontent.com/faizan-oss/portfolio/main/faizan-portfolio/public/profile/ogHouse.png" width="100%" />
+<p>A complete food ordering system for cloud kitchens with admin dashboard and order management.</p>
+<ul>
+  <li>Built responsive frontend using React.js and Tailwind CSS with shadcn/ui components.</li>
+  <li>Integrated real-time order tracking, automated email notifications, and image management with Cloudinary.</li>
+  <li>🔗 <a href="https://github.com/faizan-oss/Og-house" target="_blank">View Project</a></li>
+  <li>🔗 <a href="https://og-house-bay.vercel.app/" target="_blank">Live Site</a></li>
+</ul>
+<p><strong>#ReactJS #NodeJS #MongoDB #Cloudinary #TailwindCSS #Fullstack #FoodTech</strong></p>
+
 <h3>🔹 RPS Royals</h3>
 <img src="https://raw.githubusercontent.com/faizan-oss/portfolio/main/faizan-portfolio/public/profile/RPS.png" alt="RPS Royals Screenshot" width="100%" />
 <p>A real-time multiplayer Rock-Paper-Scissors game with live chat and scoring system.</p>
@@ -30,17 +41,6 @@
   <li>🔗 <a href="https://rps-royals.vercel.app/" target="_blank">Live Site</a></li>
 </ul>
 <p><strong>#React #NodeJS #Express #MongoDB #SocketIO #Fullstack #Vercel #Render</strong></p>
-
-<h3>🔹 OG House - Food Ordering Platform</h3>
-<img src="https://raw.githubusercontent.com/faizan-oss/portfolio/main/faizan-portfolio/public/profile/ogHouse.png" width="100%" />
-<p>A complete food ordering system for cloud kitchens with admin dashboard and order management.</p>
-<ul>
-  <li>Built responsive frontend using React.js and Tailwind CSS with shadcn/ui components.</li>
-  <li>Integrated real-time order tracking, automated email notifications, and image management with Cloudinary.</li>
-  <li>🔗 <a href="https://github.com/yourusername/og-house" target="_blank">View Project</a></li>
-  <li>🔗 <a href="https://your-deployed-app.vercel.app/" target="_blank">Live Site</a></li>
-</ul>
-<p><strong>#ReactJS #NodeJS #MongoDB #Cloudinary #TailwindCSS #Fullstack #FoodTech</strong></p>
 
 <h3>🔹 BBC-Style News Website</h3>
 <img src="https://raw.githubusercontent.com/faizan-oss/portfolio/main/faizan-portfolio/public/profile/WBC.png" width="100%" />
